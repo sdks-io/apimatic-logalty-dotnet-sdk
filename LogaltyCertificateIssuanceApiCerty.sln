@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogaltyCertificateIssuanceApiCerty.Standard", "LogaltyCertificateIssuanceApiCerty.Standard/LogaltyCertificateIssuanceApiCerty.Standard.csproj", "{a6ec0cf9-30fc-4779-9cff-dc3bb725830f}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogaltyCertificateIssuanceApiCerty.Standard", "LogaltyCertificateIssuanceApiCerty.Standard/LogaltyCertificateIssuanceApiCerty.Standard.csproj", "{253c8426-11df-4822-9250-4ba326518015}"
 EndProject
 Global
     GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,10 +10,10 @@ Global
         Release|Any CPU = Release|Any CPU
     EndGlobalSection
     GlobalSection(ProjectConfigurationPlatforms) = postSolution
-        {a6ec0cf9-30fc-4779-9cff-dc3bb725830f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-        {a6ec0cf9-30fc-4779-9cff-dc3bb725830f}.Debug|Any CPU.Build.0 = Debug|Any CPU
-        {a6ec0cf9-30fc-4779-9cff-dc3bb725830f}.Release|Any CPU.ActiveCfg = Release|Any CPU
-        {a6ec0cf9-30fc-4779-9cff-dc3bb725830f}.Release|Any CPU.Build.0 = Release|Any CPU
+        {253c8426-11df-4822-9250-4ba326518015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {253c8426-11df-4822-9250-4ba326518015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {253c8426-11df-4822-9250-4ba326518015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {253c8426-11df-4822-9250-4ba326518015}.Release|Any CPU.Build.0 = Release|Any CPU
     EndGlobalSection
     GlobalSection(SolutionProperties) = preSolution
         HideSolutionNode = FALSE
